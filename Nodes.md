@@ -1,10 +1,10 @@
-Second EC2(Node)
+**Second EC2(Node)**
 
-1,After bootstraping from Workstation(FirstEC2):
+_1,After bootstraping from Workstation(FirstEC2):_
 
-i,Add cookbook to runlist in chef server
+_i,Add cookbook to runlist in chef server_
 
-ii,Run Chef Client on the Node(commands in default.rb will be executed):
+_ii,Run Chef Client on the Node(commands in default.rb will be executed):_
 
 sudo chef-client
 
