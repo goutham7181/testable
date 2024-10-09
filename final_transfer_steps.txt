@@ -1,1 +1,10 @@
+1, git clone -b dev https://github.com/goutham7181/airflow_web.git
+2, git clone -b dev https://github.com/goutham7181/testable.git
+3, cp -a ./airflow_web/files/final_transfer_steps.txt ./testable
+4, cd testable/
+5, ls
+6, git add final_transfer_steps.txt
+7, git commit -m "final one"
+8, git status
+9, git push
 
